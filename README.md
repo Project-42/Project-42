@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m working with and for Oracle since 2012 and as you probably guess, opinions here are my own.
+
+The reason for this website and probably my life right now, is to search for new things to learn and new questions to ask, after all, we should listing to Deep Thought and make sure we get the questions right
+
+Hope you enjoy what you can see here, but if you need more Oracle content, please visit some of these Blogs, they are really awesome and I most of the stuff you see here, are probably related to them 🙂
+
+
+- 🌱 Always learning something new related or not to Databases or Oracle 🙂
+
+
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/victor-torres-m/"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
