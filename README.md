@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Project-42/Project-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+### Hi there :wave:
 
 <p align="center">
 <a href="https://project42.site/"><img src=https://i1.wp.com/project42.site/wp-content/uploads/2020/08/dont-panic-website-font.png?resize=1024%2C1024&ssl=1" width="500"/></a>
