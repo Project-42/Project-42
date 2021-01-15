@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Hi there :wave:
 
 <p align="center">
-<a href="https://project42.site/"><img src=https://i1.wp.com/project42.site/wp-content/uploads/2020/08/dont-panic-website-font.png?resize=1024%2C1024&ssl=1" width="500"/></a>
+<a href="https://project42.site/"><img src=https://i1.wp.com/project42.site/wp-content/uploads/2020/08/dont-panic-website-font.png?resize=1024%2C1024&ssl=1" width="400"/></a>
 
 
 - 🔭 I’m working with and for Oracle since 2012 and as you probably guess, opinions here are my own.
