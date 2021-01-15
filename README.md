@@ -61,5 +61,5 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
  
 <br/><br/>
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=project-42" />
+<img src="https://github-readme-stats.vercel.app/api?username=project-42&show_icons=true&title_color=f80102&icon_color=f80102" />
 </p>
