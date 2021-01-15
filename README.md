@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://project42.site/" target="_blank"><img src=https://i1.wp.com/project42.site/wp-content/uploads/2020/08/dont-panic-website-font.png?resize=1024%2C1024&ssl=1" width="400"/></a>
 
-- 🔭 I’m working with and for Oracle since 2012 and as you probably guess, opinions here are my own.
+- :warning: **I’m working with and for Oracle since 2012 and as you probably guess, opinions here are my own**
 
 Experienced Oracle DBA on versions 11g/12c/18c/19c, specializing in Exadata and other Oracle engineered systems like SuperCluster and Oracle Cloud deployments (both OCI and ExaCC/ExaCS)
 
@@ -41,6 +41,7 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 
 - 🌱 Always learning something new related or not to Databases or Oracle 🙂
 
+<br/><br/>
 ## :newspaper: Projet 42 Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Parsing Oracle Traces with “Parse Trace OWI” tool](https://project42.site/parsing-oracle-traces-with-parse-trace-owi-tool/)
@@ -50,7 +51,7 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 - [Standby Automatic Flashback [19c feature]](https://project42.site/standby-automatic-flashback-19c-feature/)
 <!-- BLOG-POST-LIST:END -->
 
-
+<br/><br/>
 ## :loudspeaker: Connect with Me
 <p align="left">
 <a href="https://project42.site/" target="_blank"><img src="https://img.shields.io/badge/-Project42-f80102?style=?style=flat-square&logo=Wordpress&logoColor=white"/></a>    
@@ -58,3 +59,7 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <a href="https://twitter.com/Solifugo/" target="_blank"><img src="https://img.shields.io/badge/-Victor%20Torres-1DA1F2?style=?style=flat-square&logo=Twitter&logoColor=white"/></a> 
 <a href="https://dev.to/project42/" target="_blank"><img src="https://img.shields.io/badge/-Project42-000000?style=?style=flat-square&logo=dev.to&logoColor=white"/></a>  
  
+<br/><br/>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=project-42" />
+</p>
