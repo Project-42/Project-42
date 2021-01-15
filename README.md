@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-### Hi there :wave:
+<center> <h1>Hi there :wave:</h1> </center>
+
 
 <p align="center">
 <a href="https://project42.site/"><img src=https://i1.wp.com/project42.site/wp-content/uploads/2020/08/dont-panic-website-font.png?resize=1024%2C1024&ssl=1" width="500"/></a>
