@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '40 * * * *' # Runs every hour, on the hour
+    - cron: '0/5 * * * *' # Runs every 5 minutes..., on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
@@ -11,4 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "BLOG-POST-LIST"
           feed_list: "http://project42.site/feed/"
