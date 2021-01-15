@@ -31,7 +31,9 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 
 ##  🤝🏻 &nbsp;Connect with Me
 <p align="left">
-<a href="https://project42.site/"><img src="https://img.shields.io/badge/-Project42-21759B?style=for-the-badge&logo=Wordpress&logoColor=white"/></a>    
-<a href="https://www.linkedin.com/in/victor-torres-m/"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Solifugo/"><img src="https://img.shields.io/badge/-Victor%20Torres-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  
-<a href="https://dev.to/project42/"><img src="https://img.shields.io/badge/-Project42-FFFFFF?style=for-the-badge&logo=dev.to&logoColor=black"/></a>  
+<a href="https://project42.site/"><img src="https://img.shields.io/badge/-Project42-21759B?style=?style=flat-square&logo=Wordpress&logoColor=white"/></a>    
+<a href="https://www.linkedin.com/in/victor-torres-m/"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Solifugo/"><img src="https://img.shields.io/badge/-Victor%20Torres-1DA1F2?style=?style=flat-square&logo=Twitter&logoColor=white"/></a> 
+<a href="https://dev.to/project42/"><img src="https://img.shields.io/badge/-Project42-000000?style=?style=flat-square&logo=dev.to&logoColor=white"/></a>  
+  
+
