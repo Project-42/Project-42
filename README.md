@@ -34,6 +34,8 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <a href="https://www.linkedin.com/in/victor-torres-m/"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Solifugo/"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  
 <a href="https://dev.to/project42/"><img src="https://img.shields.io/badge/-Project42-0077B5?style=for-the-badge&logo=dev.to&logoColor=white"/></a>  
+<a href="https://dev.to/project42/"><img src="https://img.shields.io/badge/-Project42-?style=for-the-badge&logo=dev.to&logoColor=white"/></a>  
+<a href="https://dev.to/project42/"><img src="https://img.shields.io/badge/-Project42-?style=for-the-badge&logo=dev.to&logoColor=black"/></a>  
 
 
 ?style=for-the-badge&logo=appveyor
