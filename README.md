@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 
 
 ## Hi there <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="40px"> Welcome to my GitHub Profile</h2>
-<br/>
+
 
 <p align="center">
 <a href="https://project42.site/" target="_blank"><img src=https://i1.wp.com/project42.site/wp-content/uploads/2020/08/dont-panic-website-font.png?resize=1024%2C1024&ssl=1" width="400"/></a>
 
-<br/>
 - 🔭 I’m working with and for Oracle since 2012 and as you probably guess, opinions here are my own.
 
 Experienced Oracle DBA on versions 11g/12c/18c/19c, specializing in Exadata and other Oracle engineered systems like SuperCluster and Oracle Cloud deployments (both OCI and ExaCC/ExaCS)
@@ -39,11 +38,9 @@ The reason for this website and probably my life right now, is to search for new
 Hope you enjoy what you can see here, but if you need more Oracle content, please visit some of these Blogs, they are really awesome and I most of the stuff you see here, are probably related to them 🙂
 
 
-<br/>
 
 - 🌱 Always learning something new related or not to Databases or Oracle 🙂
 
-<br/>
 ## :newspaper: Projet 42 Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Parsing Oracle Traces with “Parse Trace OWI” tool](https://project42.site/parsing-oracle-traces-with-parse-trace-owi-tool/)
@@ -53,7 +50,7 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 - [Standby Automatic Flashback [19c feature]](https://project42.site/standby-automatic-flashback-19c-feature/)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
+
 ## :loudspeaker: Connect with Me
 <p align="left">
 <a href="https://project42.site/" target="_blank"><img src="https://img.shields.io/badge/-Project42-f80102?style=?style=flat-square&logo=Wordpress&logoColor=white"/></a>    
