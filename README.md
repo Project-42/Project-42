@@ -29,6 +29,8 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 - 🌱 Always learning something new related or not to Databases or Oracle 🙂
 
 
-- 📫 How to reach me:
-<p align="center">
+##  🤝🏻 &nbsp;Connect with Me
+<p align="left">
 <a href="https://www.linkedin.com/in/victor-torres-m/"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Solifugo/"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a>  
+
