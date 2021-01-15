@@ -1,3 +1,4 @@
+
 <!--
 **Project-42/Project-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center> <h1>Hi there :wave:</h1> </center>
-
+# Hi there :wave:
 
 <p align="center">
 <a href="https://project42.site/"><img src=https://i1.wp.com/project42.site/wp-content/uploads/2020/08/dont-panic-website-font.png?resize=1024%2C1024&ssl=1" width="500"/></a>
@@ -30,11 +30,15 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 - 🌱 Always learning something new related or not to Databases or Oracle 🙂
 
 
+## :newspaper: Latest Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ##  🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://project42.site/"><img src="https://img.shields.io/badge/-Project42-f80102?style=?style=flat-square&logo=Wordpress&logoColor=white"/></a>    
 <a href="https://www.linkedin.com/in/victor-torres-m/"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Solifugo/"><img src="https://img.shields.io/badge/-Victor%20Torres-1DA1F2?style=?style=flat-square&logo=Twitter&logoColor=white"/></a> 
 <a href="https://dev.to/project42/"><img src="https://img.shields.io/badge/-Project42-000000?style=?style=flat-square&logo=dev.to&logoColor=white"/></a>  
-  
-
+ 
