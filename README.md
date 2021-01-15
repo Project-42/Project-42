@@ -52,14 +52,15 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=project-42&show_icons=true&title_color=f80102&icon_color=d02024&custom_title=Project%2042's%20GitHub%20Stats" />
+</p>
+
+<br/><br/>
 ## :loudspeaker: Connect with Me
 <p align="left">
-<a href="https://project42.site/" target="_blank"><img src="https://img.shields.io/badge/-Project42-f80102?style=?style=flat-square&logo=Wordpress&logoColor=white"/></a>    
+<a href="https://project42.site/" target="_blank"><img src="https://img.shields.io/badge/-Project42-d02024?style=?style=flat-square&logo=Wordpress&logoColor=white"/></a>    
 <a href="https://www.linkedin.com/in/victor-torres-m/" target="_blank"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Solifugo/" target="_blank"><img src="https://img.shields.io/badge/-Victor%20Torres-1DA1F2?style=?style=flat-square&logo=Twitter&logoColor=white"/></a> 
 <a href="https://dev.to/project42/" target="_blank"><img src="https://img.shields.io/badge/-Project42-000000?style=?style=flat-square&logo=dev.to&logoColor=white"/></a>  
- 
-<br/><br/>
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=project-42&show_icons=true&title_color=f80102&icon_color=f80102" />
-</p>
+
