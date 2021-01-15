@@ -35,6 +35,11 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 
 ## :newspaper: Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Parsing Oracle Traces with “Parse Trace OWI” tool](https://project42.site/parsing-oracle-traces-with-parse-trace-owi-tool/)
+- [Parallel Provisioning with Vagrant and Ansible](https://project42.site/parallel-provisioning-with-vagrant-and-ansible/)
+- [Installing Vagrant + libvirt plugin in Centos 8](https://project42.site/installing-vagrant-libvirt-plugin-in-centos-8/)
+- [DML Operations over Standby in Active Dataguard [19c feature]](https://project42.site/dml-operations-over-standby-in-active-dataguard-19c-feature/)
+- [Standby Automatic Flashback [19c feature]](https://project42.site/standby-automatic-flashback-19c-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 
