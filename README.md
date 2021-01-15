@@ -43,7 +43,7 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <!-- BLOG-POST-LIST:END -->
 
 
-##  🤝🏻 &nbsp;Connect with Me
+## :loudspeaker: Connect with Me
 <p align="left">
 <a href="https://project42.site/"><img src="https://img.shields.io/badge/-Project42-f80102?style=?style=flat-square&logo=Wordpress&logoColor=white"/></a>    
 <a href="https://www.linkedin.com/in/victor-torres-m/"><img src="https://img.shields.io/badge/-Victor%20Torres-0077B5?style=?style=flat-square&logo=Linkedin&logoColor=white"/></a>
