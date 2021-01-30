@@ -44,11 +44,11 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <br/><br/>
 ## :newspaper: Projet 42 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Installing OEM 13.4 with 19c PDB as repository DB](https://project42.site/installing-oem-13-4-with-19c-pdb-as-repository-db/)
 - [Basic tasks using Oracle Fleet Patching and Provisioning](https://project42.site/basic-tasks-using-oracle-fleet-patching-and-provisioning/)
 - [Oracle Fleet Patching and Provisioning using BrokeDBA Vagrant fork](https://project42.site/oracle-fleet-patching-and-provisioning-using-brokedba-vagrant-fork/)
 - [PurgeLog: Oracle Logs and Traces Housekeeping](https://project42.site/purgelog-oracle-logs-and-traces-housekeeping/)
 - [Installing VirtualBox 6.1 on Fedora 33](https://project42.site/installing-virtualbox-6-1-on-fedora-33/)
-- [Parsing Oracle Traces with “Parse Trace OWI” tool](https://project42.site/parsing-oracle-traces-with-parse-trace-owi-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
