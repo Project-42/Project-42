@@ -44,11 +44,11 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <br/><br/>
 ## :newspaper: Projet 42 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Updating Oracle Enterprise Manager (OEM 13R4)](https://project42.site/updating-oracle-enterprise-manager-oem-13r4/)
 - [Failing to increase Database processes parameter [Failing 101]](https://project42.site/failing-to-increase-database-processes-parameter-failing-101/)
 - [Oracle Database monitoring with Grafana](https://project42.site/oracle-database-monitoring-with-grafana/)
 - [Adding Targets and checking Database Performance in OEM 13.4](https://project42.site/adding-targets-and-checking-database-performance-in-oem-13-4/)
 - [Installing OEM 13.4 with 19c PDB as repository DB](https://project42.site/installing-oem-13-4-with-19c-pdb-as-repository-db/)
-- [Basic tasks using Oracle Fleet Patching and Provisioning](https://project42.site/basic-tasks-using-oracle-fleet-patching-and-provisioning/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
