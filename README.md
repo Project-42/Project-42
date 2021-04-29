@@ -44,11 +44,11 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <br/><br/>
 ## :newspaper: Projet 42 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to move or rename a 19c RAC Database Oracle Home](https://project42.site/how-to-move-or-rename-a-19c-rac-database-oracle-home/)
 - [Online Datafile movement inconsistencies in 12.2](https://project42.site/online-datafile-movement-inconsistencies-in-12-2/)
 - [Upgrade a 11g Database to 19c as a PDB with Autoupgrade, now for RAC!!](https://project42.site/upgrade-a-11g-database-to-19c-as-a-pdb-with-autoupgrade-now-for-rac/)
 - [Connect your OEM to Grafana using Enterprise Manager App for Grafana](https://project42.site/connect-your-oem-to-grafana-using-enterprise-manager-app-for-grafana/)
 - [Updating Oracle Enterprise Manager (OEM 13R4)](https://project42.site/updating-oracle-enterprise-manager-oem-13r4/)
-- [Failing to increase Database processes parameter [Failing 101]](https://project42.site/failing-to-increase-database-processes-parameter-failing-101/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
