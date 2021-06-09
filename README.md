@@ -44,11 +44,11 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <br/><br/>
 ## :newspaper: Projet 42 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Change Database name using NID (DBNEWID utility)](https://project42.site/change-database-name-using-nid-dbnewid-utility/)
 - [How to convert Non-CDB to PDB using noncdb_to_pdb.sql](https://project42.site/how-to-convert-non-cdb-to-pdb-using-noncdb_to_pdb-sql/)
 - [How to Convert Non-CDB to PDB using Autoupgrade](https://project42.site/how-to-convert-non-cdb-to-pdb-using-autoupgrade/)
 - [How to move or rename a 19c RAC Database Oracle Home](https://project42.site/how-to-move-or-rename-a-19c-rac-database-oracle-home/)
 - [Online Datafile movement inconsistencies in 12.2](https://project42.site/online-datafile-movement-inconsistencies-in-12-2/)
-- [Upgrade a 11g Database to 19c as a PDB with Autoupgrade, now for RAC!!](https://project42.site/upgrade-a-11g-database-to-19c-as-a-pdb-with-autoupgrade-now-for-rac/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
