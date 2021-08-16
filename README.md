@@ -44,11 +44,11 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <br/><br/>
 ## :newspaper: Projet 42 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Installing Oracle 21c Database on Linux [Single Instance]](https://project42.site/installing-oracle-21c-database-on-linux-single-instance/)
 - [Creating a neo4j cluster with Docker](https://project42.site/creating-a-neo4j-cluster-with-docker/)
 - [Change Database name using NID (DBNEWID utility)](https://project42.site/change-database-name-using-nid-dbnewid-utility/)
 - [How to convert Non-CDB to PDB using noncdb_to_pdb.sql](https://project42.site/how-to-convert-non-cdb-to-pdb-using-noncdb_to_pdb-sql/)
 - [How to Convert Non-CDB to PDB using Autoupgrade](https://project42.site/how-to-convert-non-cdb-to-pdb-using-autoupgrade/)
-- [How to move or rename a 19c RAC Database Oracle Home](https://project42.site/how-to-move-or-rename-a-19c-rac-database-oracle-home/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
