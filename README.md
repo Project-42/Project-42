@@ -44,11 +44,11 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 <br/><br/>
 ## :newspaper: Projet 42 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to install Oracle Linux Automation Manager (aka “Oracle Ansible Tower”)](https://project42.site/how-to-install-oracle-linux-automation-manager-aka-oracle-ansible-tower/)
 - [A warning about DG Broker “PREPARE DATABASE FOR DATA GUARD” command on 21c [21.3 version]](https://project42.site/a-warning-about-dg-broker-prepare-database-for-data-guard-command-on-21c-21-3-version/)
 - [Installing Oracle 21c Database on Linux [Single Instance]](https://project42.site/installing-oracle-21c-database-on-linux-single-instance/)
 - [Creating a neo4j cluster with Docker](https://project42.site/creating-a-neo4j-cluster-with-docker/)
 - [Change Database name using NID (DBNEWID utility)](https://project42.site/change-database-name-using-nid-dbnewid-utility/)
-- [How to convert Non-CDB to PDB using noncdb_to_pdb.sql](https://project42.site/how-to-convert-non-cdb-to-pdb-using-noncdb_to_pdb-sql/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/><br/>
