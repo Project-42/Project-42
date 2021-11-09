@@ -47,7 +47,7 @@ Hope you enjoy what you can see here, but if you need more Oracle content, pleas
 - [Remember, 42 was never the Answer](https://project42.site/remember-42-was-never-the-answer/)
 - [Creating a Standby on 21c [Single Instance]](https://project42.site/creating-a-standby-on-21c-single-instance/)
 - [Upgrading Oracle Linux 7 to 8 With Leapp](https://project42.site/upgrading-oracle-linux-7-to-8-with-leapp/)
-- [How to install Oracle Linux Automation Manager (aka “Oracle Ansible Tower”)](https://project42.site/how-to-install-oracle-linux-automation-manager-aka-oracle-ansible-tower/)
+- [How to install Oracle Linux Automation Manager &lpar;aka “Oracle Ansible Tower”&rpar;](https://project42.site/how-to-install-oracle-linux-automation-manager-aka-oracle-ansible-tower/)
 - [A warning about DG Broker “PREPARE DATABASE FOR DATA GUARD” command on 21c [21.3 version]](https://project42.site/a-warning-about-dg-broker-prepare-database-for-data-guard-command-on-21c-21-3-version/)
 <!-- BLOG-POST-LIST:END -->
 
