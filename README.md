@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://project42.site/" target="_blank"><img src=https://i1.wp.com/project42.site/wp-content/uploads/2020/08/dont-panic-website-font.png?resize=1024%2C1024&ssl=1" width="400"/></a>
 
-- :warning: **I’m working with and for Oracle since 2012 and as you probably guess, opinions here are my own**
+- :warning: **I’m working with Oracle Products since 2012 and as you probably guess, opinions here are my own**
 
 Experienced Oracle DBA on versions 11g/12c/18c/19c, specializing in Exadata and other Oracle engineered systems like SuperCluster and Oracle Cloud deployments (both OCI and ExaCC/ExaCS)
-
-Working directly for some of Oracle biggest International Clients, I am committed to deliver excellent customer service ensuring high standard customer satisfaction.
 
 With my clear logical mind and a practical hands on approach to problem solving, I can ensure that presented tasks will be handled through to completion in an efficient and professional manner.
 
